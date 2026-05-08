@@ -2,10 +2,9 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/typescript-node
 {
 	"name": "Node.js & TypeScript",
-	"image": "mcr.microsoft.com/devcontainers/typescript-node:24-bullseye",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:24-bullseye@sha256:147a65f600d906c678cb40b7fa17957b943f49cf3a094c2a1ad56044605f87e8",
 	"features": {
-		"ghcr.io/devcontainers/features/node:1": {},
-        "ghcr.io/devcontainers-extra/features/typescript:2.0.16": {}
+		"ghcr.io/devcontainers/features/node:1": {}
 	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
